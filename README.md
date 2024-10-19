@@ -45,4 +45,33 @@ Splitting: Split a linked list into two or more parts based on specific criteria
 Example: Rearranging a list.
 Cycle Detection: Identify if a linked list contains a cycle using the two-pointer technique (Floyd’s algorithm) or hash tables to store visited nodes.
 
+## When stuck
+## Problem-Solving Approach
+
+1. **Learn the Basics**
+   - Understand fundamental concepts.
+
+2. **Look for Real-World Implementations**
+   - Find examples of how these concepts are applied in real scenarios.
+
+3. **Visualize with Pen and Paper**
+   - Sketch diagrams or flowcharts to clarify your understanding.
+
+4. **Implement from Scratch**
+   - Write your own code to reinforce what you’ve learned.
+
+5. **Learn the Built-In Libraries**
+   - Familiarize yourself with libraries and frameworks that can streamline your coding process.
+
+6. **Solve Simple Problems**
+   - Start with easier problems to build confidence and skill.
+
+7. **Tackle Hard Problems**
+   - Gradually challenge yourself with more complex problems to further your expertise.
+
+---
+
+> **Tip:** Keep practicing and iterating on this process to continually improve your problem-solving skills!
+
+
 
