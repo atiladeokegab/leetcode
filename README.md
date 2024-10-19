@@ -45,7 +45,7 @@ Splitting: Split a linked list into two or more parts based on specific criteria
 Example: Rearranging a list.
 Cycle Detection: Identify if a linked list contains a cycle using the two-pointer technique (Floyd’s algorithm) or hash tables to store visited nodes.
 
-## When stuck
+## When stuck:
 ## Problem-Solving Approach
 
 1. **Learn the Basics**
