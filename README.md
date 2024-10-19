@@ -23,3 +23,26 @@ The last node points back to the first node, forming a loop.
 ## 📚 LeetCode Practice
 To enhance my problem-solving skills, I follow the [Neetcode Roadmap](https://neetcode.io/roadmap) for tackling LeetCode problems. This resource provides a structured approach to learning data structures and algorithms, helping me to prepare for technical interviews and improve my coding proficiency.
 
+## 📚 Commomn Patterns
+## Traversal:
+Loop through the list to access or process each node. Use a pointer to traverse from the head to the end.
+ Example: Printing all elements, summing values.
+## Two Pointers:
+Use two pointers (slow and fast) to solve problems like cycle detection, finding the middle element, or merging two lists.
+
+Example: Floyd’s Tortoise and Hare for cycle detection.
+Recursion: Solve problems recursively by breaking them down into smaller subproblems, typically by working with the current node and recursing on the next.
+
+Example: Reversing a linked list.
+Dummy Node: Use a dummy node to simplify operations like insertion or deletion, especially when dealing with edge cases (like an empty list).
+
+Example: Inserting at the head or tail.
+Merging: Merge two sorted linked lists by comparing nodes and adjusting pointers.
+
+Example: Merging K sorted lists.
+Splitting: Split a linked list into two or more parts based on specific criteria (like even/odd).
+
+Example: Rearranging a list.
+Cycle Detection: Identify if a linked list contains a cycle using the two-pointer technique (Floyd’s algorithm) or hash tables to store visited nodes.
+
+
