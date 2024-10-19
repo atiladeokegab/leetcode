@@ -21,4 +21,4 @@ Each node points to both its next and previous node.
 ## Circular Linked List:
 The last node points back to the first node, forming a loop.
 ## Leetcode Practice:
-![Neetcode]((https://neetcode.io/roadmap))
+![Neetcode](https://neetcode.io/roadmap)
