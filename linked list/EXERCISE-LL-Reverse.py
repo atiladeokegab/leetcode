@@ -1,3 +1,8 @@
+'''
+This File is a DIY version of a linked list
+The first class is Node this is to create the individual node
+the LinkedList class helps to perform operations on the linked list
+'''
 class Node:
     def __init__(self, value):
         self.value = value
