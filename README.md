@@ -23,4 +23,3 @@ The last node points back to the first node, forming a loop.
 ## 📚 LeetCode Practice
 To enhance my problem-solving skills, I follow the [Neetcode Roadmap](https://neetcode.io/roadmap) for tackling LeetCode problems. This resource provides a structured approach to learning data structures and algorithms, helping me to prepare for technical interviews and improve my coding proficiency.
 
-![Neetcode](https://neetcode.io/roadmap)
