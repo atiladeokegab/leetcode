@@ -47,6 +47,10 @@ An array is a collection of elements identified by index or key, allowing for ef
 - **Example Problems:**
   - Range Sum Query: Immutable
   - Subarray Sum Equals K
+  - Continuous sub array sum
+  - Subarray sums divisible by k
+  -  Product of array expect expect self 
+  - Path sum III
 
 This directory serves as a comprehensive resource for mastering array-based problems, helping you build a solid foundation for problem-solving in technical interviews.
 
