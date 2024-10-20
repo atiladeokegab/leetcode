@@ -25,4 +25,27 @@ Welcome to my LeetCode practice folder! This directory is a collection of my sol
 - **Two-Pointer Techniques**
 - **Sliding Window**
 
+## When stuck:
+## Problem-Solving Approach
+
+1. **Learn the Basics**
+   - Understand fundamental concepts.
+
+2. **Look for Real-World Implementations**
+   - Find examples of how these concepts are applied in real scenarios.
+
+3. **Visualize with Pen and Paper**
+   - Sketch diagrams or flowcharts to clarify your understanding.
+
+4. **Implement from Scratch**
+   - Write your own code to reinforce what you’ve learned.
+
+5. **Learn the Built-In Libraries**
+   - Familiarize yourself with libraries and frameworks that can streamline your coding process.
+
+6. **Solve Simple Problems**
+   - Start with easier problems to build confidence and skill.
+
+7. **Tackle Hard Problems**
+   - Gradually challenge yourself with more complex problems to further your expertise.
 This directory serves as a hands-on resource for mastering these essential concepts, with a particular focus on linked list implementations and problem-solving techniques.
