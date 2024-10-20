@@ -42,6 +42,11 @@ An array is a collection of elements identified by index or key, allowing for ef
 - **Example Problems:**
   - Rotate Array
   - Move Zeroes
+### 7. **Prefix Sum**
+- **Description:** Create a prefix sum array to allow for efficient range sum queries and cumulative sum calculations.
+- **Example Problems:**
+  - Range Sum Query: Immutable
+  - Subarray Sum Equals K
 
 This directory serves as a comprehensive resource for mastering array-based problems, helping you build a solid foundation for problem-solving in technical interviews.
 
