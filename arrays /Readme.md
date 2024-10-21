@@ -6,7 +6,6 @@ Welcome to my LeetCode practice folder dedicated to arrays! This directory conta
 An array is a collection of elements identified by index or key, allowing for efficient access and manipulation of data. Arrays can be single-dimensional or multi-dimensional.
 
 ## 📐 Common Problem-Solving Patterns for Arrays:
-
 ### 1. **Two-Pointer Technique**
 - **Description:** Utilize two pointers to traverse the array for problems like finding pairs or reversing sections.
 - **Example Problems:** 
