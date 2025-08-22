@@ -1,0 +1,71 @@
+1. Create a project folder and initialize uv
+mkdir new_project
+cd new_project
+uv init
+
+
+Initializes a uv workspace for dependency management.
+
+2. Set up Python virtual environment
+uv venv --python=3.13
+source .venv/bin/activate
+
+
+Creates and activates a virtual environment inside .venv.
+
+3. Install packages
+uv add requests
+uv add django
+uv add django-ninja
+uv add django-cors-headers
+uv add pydantic
+uv add python-dotenv
+
+
+Installs all required packages for backend API development.
+
+4. Create Django project
+django-admin startproject core .
+
+
+Creates a Django project named core in the current folder.
+
+5. Apply initial migrations
+uv run python manage.py migrate
+
+
+Sets up the default database tables (auth, sessions, admin, etc.).
+
+6. Run the development server
+uv run python manage.py runserver
+
+
+Starts Django development server at http://127.0.0.1:8000/.
+
+7. Organize project structure
+mkdir frontend backend
+mv manage.py core backend/
+
+
+Separates frontend and backend.
+
+Moves manage.py to the backend folder for clarity.
+
+8. Start a Django app
+cd backend
+uv run python manage.py startapp myapp
+
+
+Creates a new app named myapp inside backend.
+
+9. Verify your project structure
+new_project/
+├─ backend/
+│  ├─ core/         # Django project
+│  ├─ myapp/        # Your Django app
+│  └─ manage.py
+├─ frontend/        # Placeholder for React/Vue/etc.
+├─ db.sqlite3
+├─ pyproject.toml
+├─ uv.lock
+└─ .venv
