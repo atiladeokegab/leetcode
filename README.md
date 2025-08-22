@@ -12,7 +12,9 @@ Welcome to my LeetCode practice folder! This directory is a collection of my sol
   - The **LeetCode solution function**.
   - The **tests**, written directly in the same file (using either `assert` statements or a testing framework like `pytest`).
   - This will allow you to debug your code and this is great practice for real software engineering 
-
+```bash
+uv venv --python=<insert python version of choice>
+```
 ## Example Structure
 ## 📚 Data Structures Covered:
 - **Arrays**
