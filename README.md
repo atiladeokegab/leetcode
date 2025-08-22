@@ -2,6 +2,18 @@
 
 Welcome to my LeetCode practice folder! This directory is a collection of my solutions to various problems, focusing on key data structures and algorithms to build strong problem-solving skills for technical interviews.
 
+# LeetCode Practice Repository
+## Setup
+
+- This project is managed using [uv](https://github.com/astral-sh/uv) for Python environment management.  
+- Each **algorithm** or **data structure** has its own directory.  
+- Inside each directory, there are multiple **problem files** (one per LeetCode problem).  
+- Each Python file contains:
+  - The **LeetCode solution function**.
+  - The **tests**, written directly in the same file (using either `assert` statements or a testing framework like `pytest`).
+  - This will allow you to debug your code and this is great practice for real software engineering 
+
+## Example Structure
 ## 📚 Data Structures Covered:
 - **Arrays**
 - **Linked Lists** (Singly, Doubly, Circular)
